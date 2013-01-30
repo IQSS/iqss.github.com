@@ -1,11 +1,11 @@
 Package: Zelig
-Version: 4.1-2
+Version: 4.1-3
 Depends: R (>= 2.14), boot, MASS, methods, sandwich
 Suggests: Amelia, mvtnorm, Formula, gee, survey, survival, systemfit,
-        MCMCpack, coda
+        MatchIt, MCMCpack, coda
 License: GPL (>= 2)
 NeedsCompilation: no
-MD5sum: 50ff7223f64378321de3e41ad4cad49d
+MD5sum: 19e8b8fc99f49294bce69694777e4162
 
 Package: ZeligChoice
 Version: 0.7-0
