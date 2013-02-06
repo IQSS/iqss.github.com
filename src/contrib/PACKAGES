@@ -5,7 +5,7 @@ Suggests: Amelia, mvtnorm, Formula, gee, survey, survival, systemfit,
         MatchIt, MCMCpack, coda
 License: GPL (>= 2)
 NeedsCompilation: no
-MD5sum: 84e36287277a7a005d6d7a6f9e5fa892
+MD5sum: c4f9b63804f352687bc7b2fb313fba78
 
 Package: ZeligChoice
 Version: 0.7-0
