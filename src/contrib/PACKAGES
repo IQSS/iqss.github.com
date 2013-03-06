@@ -4,27 +4,23 @@ Depends: R (>= 2.14), boot, MASS, methods, sandwich
 Suggests: Amelia, mvtnorm, Formula, gee, survey, survival, systemfit,
         MatchIt, MCMCpack, coda
 License: GPL (>= 2)
-NeedsCompilation: no
-MD5sum: 68745b49bf1473c8cc1a7ed9d4717c53
+MD5sum: ceb7ef8b81239f8ee3046cddfb4e9f52
 
 Package: ZeligChoice
 Version: 0.7-0
 Depends: Zelig (>= 4.0-11), VGAM (>= 0.8-4), R (>= 2.10)
 License: GPL (>= 2)
-NeedsCompilation: no
 MD5sum: a5d1db369762a36a58919d393f22eb1e
 
 Package: ZeligGAM
 Version: 0.7-0
 Depends: Zelig (>= 4.0-11), mgcv
 License: GPL (>= 2)
-NeedsCompilation: no
 MD5sum: 0b2a3c6218ccbcc3d0e50279f99cd3ed
 
 Package: ZeligMultilevel
 Version: 0.7-0
 Depends: Zelig (>= 4.0-11), lme4
 License: GPL (>= 2)
-NeedsCompilation: no
 MD5sum: 12e30149ad1e082a06ceebf6a163b18e
 
